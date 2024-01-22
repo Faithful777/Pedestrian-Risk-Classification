@@ -97,7 +97,7 @@ import ast
 import google_streetview.api
 
 params= []
-key = 'AIzaSyBAm5CU0649nrxFqoF_NEjwuecLIMv6NvU'
+key = 'your_key'
 
 with open('/content/drive/MyDrive/LagosRoads.txt', 'r') as f:
 #with open('/content/drive/MyDrive/Lagos Island ring road.txt', 'r') as f:
